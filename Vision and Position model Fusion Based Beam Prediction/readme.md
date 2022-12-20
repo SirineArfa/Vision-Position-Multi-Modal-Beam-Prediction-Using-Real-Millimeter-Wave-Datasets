@@ -1,4 +1,4 @@
-## Fusion shcema architecture
+## Fusion schema architecture
 
 ![Capture](https://user-images.githubusercontent.com/80635318/208735892-eaf50098-abc4-4f68-a373-a620a252da4c.PNG)
 
