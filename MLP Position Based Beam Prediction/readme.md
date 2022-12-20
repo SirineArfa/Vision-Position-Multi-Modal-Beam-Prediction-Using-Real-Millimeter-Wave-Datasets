@@ -35,6 +35,7 @@ Ploting the loss curve:
 ![m](https://user-images.githubusercontent.com/80635318/208716043-c65b842d-6d57-468e-815a-5a8c7b62fff3.PNG)
 
 Ploting the Confusion_matrix:
+
 ![n](https://user-images.githubusercontent.com/80635318/208716178-cdbc8e33-f1bd-4941-b5f8-14cc064815f2.PNG)
 
 
