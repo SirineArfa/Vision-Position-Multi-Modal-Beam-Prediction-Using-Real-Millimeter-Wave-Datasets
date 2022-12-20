@@ -16,7 +16,8 @@ You can find the folder that contains the 9 scenarios at "All_9_scenarios_datase
 
 In order to reproduce the work you should:
 
-1. Run pip install -r requirements.txt (Python 2), or pip3 install -r requirements.txt (Python 3) to install all the requirements
-2. Run python KNN_model.py 
+1. Run `pip install -r requirements.txt` (Python 2), or `pip3 install -r requirements.txt` (Python 3) to install all the requirements
+2. Run `python KNN_model.py` to run the model
+
 
 
