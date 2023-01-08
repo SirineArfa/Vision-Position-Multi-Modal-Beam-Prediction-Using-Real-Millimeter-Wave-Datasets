@@ -25,3 +25,8 @@ We concatenate the user position data [Latitude, Longitude] with their correspon
 ## MLP classifier evaluation
 
 ![33](https://user-images.githubusercontent.com/80635318/208738894-533c0ec1-f120-4920-9046-3d98fb4805da.PNG)
+
+## MLP Learning Curves
+
+![Capture](https://user-images.githubusercontent.com/80635318/211220216-8d706e90-6ec1-4cd7-a7e5-7da14911f8d4.PNG)
+
