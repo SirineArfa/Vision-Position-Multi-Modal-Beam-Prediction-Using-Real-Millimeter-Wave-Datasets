@@ -21,3 +21,9 @@ pre- (Early Fusion) and post- (Late Fusion) models. The results show that the pr
 fusion methods achieves more than 87% Top-3 beam prediction accuracy in realistic
 communication scenarios.
 
+# Contributors:
+
+Mohamed Aziz Tamr [https://www.linkedin.com/in/tmar-med-aziz/]
+
+Sirine Arfa [https://www.linkedin.com/in/sirine-arfa/]
+
