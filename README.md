@@ -23,7 +23,7 @@ communication scenarios.
 
 # Contributors:
 
-Mohamed Aziz Tamr [https://www.linkedin.com/in/tmar-med-aziz/]
+[Mohamed Aziz Tmar] (https://www.linkedin.com/in/tmar-med-aziz/)
 
-Sirine Arfa [https://www.linkedin.com/in/sirine-arfa/]
+[Sirine Arfa] (https://www.linkedin.com/in/sirine-arfa/)
 
